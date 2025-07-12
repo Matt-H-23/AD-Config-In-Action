@@ -1,4 +1,4 @@
-# AD-Config-In-Action
+# AD-Config-In-Action 💻
 This illustrates the previously demonstrated AD/GPO configurations in action 
 ## Demo Video 🎥
 - [Watch The Demo Here](https://drive.google.com/file/d/1ZFNlK2Kam4Sqgr57QFlx4fmFcF_1tg6v/view?usp=sharing)
